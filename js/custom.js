@@ -99,6 +99,9 @@ var customScripts = {
 $('document').ready(function () {
 	 $.backstretch([
       "images/space/shenzhou.jpg",
+      "images/space/tiangong.jpg",
+      "images/space/hangtianyuan.jpg",
+      "images/space/tiangong2.jpg",
   ], {duration: 4800, fade: 1000});
   
     customScripts.init();
