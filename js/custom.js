@@ -7,7 +7,7 @@ Theme by: WebThemez.com
 Note: Please use our back link in your site
 */
 $( function() {
-        var endDate = "June 17, 2021 9:13:00";
+        var endDate = "June 17, 2021 16:00:00";
 
         $('.countdown.simple').countdown({ date: endDate });
 
@@ -98,10 +98,11 @@ var customScripts = {
 }
 $('document').ready(function () {
 	 $.backstretch([
-      "images/space/shenzhou.jpg",
-      "images/space/tiangong.jpg",
-      "images/space/hangtianyuan.jpg",
-      "images/space/tiangong2.jpg",
+      "images/space/1.jpg",
+      "images/space/2.jpg",
+      "images/space/1.gif",
+      "images/space/3.jpg",
+      "images/space/4.jpg",
   ], {duration: 4800, fade: 1000});
   
     customScripts.init();
