@@ -2988,7 +2988,8 @@ footer {
 }
 .nbs-flexisel-inner {
 	overflow: hidden;
-	    margin: 6% auto 4%;
+	margin: 6% auto 4%;
+	max-height: 200px;
 }
 .nbs-flexisel-item {
 	float: left;
