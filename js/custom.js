@@ -102,7 +102,6 @@ $('document').ready(function () {
       "images/space/2.jpg",
       "images/space/1.gif",
       "images/space/3.jpg",
-      "images/space/4.jpg",
   ], {duration: 4800, fade: 1000});
   
     customScripts.init();
