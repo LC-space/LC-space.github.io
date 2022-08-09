@@ -7121,3 +7121,14 @@ td.visible-print {
   overflow: hidden;
   text-overflow: ellipsis;
 }
+
+.linered {
+  margin: 0 10px 20px;
+  height: 500px;
+	border-style: solid; 
+	border-width: 1px;
+	border-color: #888888;
+  box-shadow: 10px 5px 5px #FF2020;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
