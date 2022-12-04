@@ -4073,7 +4073,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .nav > li > a {
   position: relative;
   display: block;
-  padding: 10px 7px;
+  padding: 10px 6px;
 }
 
 .nav > li > a:hover,
